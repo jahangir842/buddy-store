@@ -9,7 +9,6 @@
 .terraform/*
 .venv/
 .vs/
-.vscode/
 *.iml
 *.ipr
 *.iws
@@ -26,3 +25,7 @@ obj/
 pkg/
 release/wi-kubernetes-manifests.yaml
 vendor/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
